@@ -68,13 +68,10 @@ By the end of this week you'll have leveled up your development skills!
 
 ---
 
-![](./agenda.png)
 
-![](./learning.png)
+## Get help
 
-
-## Get a TA's help
-Ask for help in the Cohort TA Station Slack Channel (#june-2021-ta-station)
+Post in our Slack Channel
 
 
 ## Resources
