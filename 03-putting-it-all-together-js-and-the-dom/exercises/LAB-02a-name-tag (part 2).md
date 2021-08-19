@@ -1,4 +1,4 @@
-Lab 03a: Interactive Name Tag
+Lab 03a (aka Lab 02a Part 2): Interactive Name Tag
 ===
 
 1) Update the project so that the user is able to change the name on the nametag with an input and a button.

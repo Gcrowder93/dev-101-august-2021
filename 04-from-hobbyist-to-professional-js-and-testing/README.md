@@ -1,11 +1,9 @@
 Day 4: Professional Javascript: Testing and Refactoring
 ===
+
 ### Functions, Arrays, & Objects Warmup
+
 [Warmup Repo](https://github.com/jules-does-demos/functions-warmup) Clone the repo and write the code asked for in app.js
-### Setup ESLint
-
-> [Setup ESLint](./notes/eslint.md)
-
 
 ### Functions
 

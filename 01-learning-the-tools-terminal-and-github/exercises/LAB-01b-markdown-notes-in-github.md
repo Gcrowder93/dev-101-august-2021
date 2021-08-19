@@ -1,10 +1,10 @@
-## Terminal Commands and Github Lab
+## Markdown Notes in GitHub
 
 ### For this lab, we are going to create a repo for you to take notes throughout the week.
 
 1. Create a repo with a README.md on Github:
     ```
-    foundation-prep-notes
+    LAB-01b-markdown-notes-in-github.md
     ```
 1. `pwd` to make sure you're in the right directory
 1. Clone your repo on the command line

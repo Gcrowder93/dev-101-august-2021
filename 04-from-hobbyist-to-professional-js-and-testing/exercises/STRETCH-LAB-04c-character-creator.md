@@ -1,7 +1,6 @@
 Lab 04b: Let's build a character creator!
 ===
 
-
 ## Standard Setup Process
 
 1. Create a repo called `lab-04c-character-creator` on Github (I recommend starting with the template repo)

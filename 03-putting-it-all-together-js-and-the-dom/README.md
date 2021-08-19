@@ -5,14 +5,12 @@ Day 3: JavaScript and the DOM
 
 > [Intra-app switching](./notes/keyboard.md)
 
-
 ## Define outcomes and validate
-    - Ask: What do I want to accomplish?
-        - How will I know I've accomplished it?
-        - Break the outcome into parts:
-            - Is this the smallest possible outcome? If not, what is?
-                - How will I know I've accomplished it?
-
+- Ask: What do I want to accomplish?
+    - How will I know I've accomplished it?
+    - Break the outcome into parts:
+        - Is this the smallest possible outcome? If not, what is?
+            - How will I know I've accomplished it?
 
 ### JavaScript in the Browser
 

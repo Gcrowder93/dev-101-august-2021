@@ -18,11 +18,13 @@
 # Schedule
 ## Monday: Learning the tools
 - Terminal
--  Github
+- Github and git
+- VS Code
+- Markdown
 
 ## Tuesday: Making a Website
  - Semantic HTML
- - Attributes 
+ - HTML Attributes 
  - CSS Basics (selectors and styles)
  - Flexbox and Grid
  - Simple CSS Animations

@@ -25,6 +25,7 @@ Day 1: Developer Tools
 > [Managing code](./notes/github.md)
 
 ### Exercises
-    - Terminal Challenge
-    - Terminal and Markdown in Github
+
+- Terminal Challenge
+- Markdown Notes in Github
 
