@@ -12,8 +12,8 @@
 - The Browser
   - Chrome, please! 
   - [64% of web users are on Chrome, so that's our target browser](https://gs.statcounter.com/)
-- Terminal, Git/Bash, or WSL (Unbuntu on Windows)
-  - For Windows users, WSL is generally considered better since it's closer to an actual Linux distribution. However (since it's Linux) it has weird, difficult edges. If WSL is causing you a lot of problems, download Git/Bash for easy mode.
+- Terminal, Git/Bash, or WSL (Ubuntu on Windows)
+  - For Windows users, WSL is a way to run an actual Linux distribution. However (since it's Linux) it has weird, difficult edges anyway, let alone on Windows. If WSL is causing you a lot of problems, download Git/Bash for easy mode.
 
 # Schedule
 ## Monday: Learning the tools
@@ -23,6 +23,8 @@
 - Markdown
 
 ## Tuesday: Making a Website
+ - Making Web apps in VS Code
+ - Web Pages
  - Semantic HTML
  - HTML Attributes 
  - CSS Basics (selectors and styles)
@@ -31,15 +33,17 @@
 
 ## Wednesday: Putting it all Together!
  - JS basics
- - Calling functions (and passing arguments)
  - The DOM 
+ - Events and Form Controls
+ - Interactive Name Tag
+ - Audio and Video
  - Animal Farm App
 
 ## Thursday: From Hobbyist to Professional
-  - Ryan and Career Track!
   - Declaring vs Calling functions
   - Testing Code with QUnit
   - Calculator App
+  - STRETCH: Arrays and Magic Eight Ball
 
 ## Friday: What's it like on the job?
   - Alumni Panel
