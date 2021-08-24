@@ -13,6 +13,18 @@ Recreate a classic name tag in HTML
     1. **`cd` into your repo from the command line**
     1. Launch vscode with `code .`
 
+## Lab Setup
+
+Not sure what to do? Look at your last lab!
+
+1. Add an `index.html` file
+1. Auto-generate a base html doc by typing `!` and selecting option
+1. Add some dummy text like "hello world" in the `<body>`
+1. Launch Live Server
+1. Create a `styles.css` file
+1. Add a link for the css file in the `<head>` of your html document
+1. Add some dummy css like `body { color: purple }` to make sure things are connected.
+
 ## Process
 
 1. Read through this entire lab document
