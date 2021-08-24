@@ -30,9 +30,11 @@
     ```
 
 1. **ACP your code and push it to your main branch!**
+1. Add some of your notes from today in your day-1 markdown file being sure to play around with markup features including bullet lists, tables, bold or italicized text, and headers
+1. **ACP your code and push it to your main branch!**
 1. In README.md, add links to each of your 5 days of notes
 1. **ACP your code (again!) and push it to your main branch (again)!**
-1. Add some of your notes from today in your day-1 markdown file being sure to play around with markup features including bullet lists, tables, bold or italicized text, and headers
+
 1. Put the link to the repo in the canvas submission.
 
 ## Points Break Down
